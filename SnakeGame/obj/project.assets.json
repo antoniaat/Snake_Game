@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antonia\\Desktop\\Snake_Game\\Snake_Game\\SnakeGame\\SnakeGame.csproj",
+      "projectUniqueName": "C:\\Users\\Antonia\\Desktop\\Snake_Game\\SnakeGame\\SnakeGame.csproj",
       "projectName": "SnakeGame",
-      "projectPath": "C:\\Users\\Antonia\\Desktop\\Snake_Game\\Snake_Game\\SnakeGame\\SnakeGame.csproj",
+      "projectPath": "C:\\Users\\Antonia\\Desktop\\Snake_Game\\SnakeGame\\SnakeGame.csproj",
       "packagesPath": "C:\\Users\\Antonia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antonia\\Desktop\\Snake_Game\\Snake_Game\\SnakeGame\\obj\\",
+      "outputPath": "C:\\Users\\Antonia\\Desktop\\Snake_Game\\SnakeGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

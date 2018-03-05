@@ -20,3 +20,14 @@ C:\Users\Antonia\Desktop\Snake_Game\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0
 C:\Users\Antonia\Desktop\Snake_Game\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.AssemblyInfo.cs
 C:\Users\Antonia\Desktop\Snake_Game\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.dll
 C:\Users\Antonia\Desktop\Snake_Game\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.pdb
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.deps.json
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.runtimeconfig.json
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.runtimeconfig.dev.json
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.dll
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\bin\Debug\netcoreapp2.0\SnakeGame.pdb
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.AssemblyInfo.cs
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.dll
+C:\Users\Antonia\Desktop\Snake_Game\SnakeGame\obj\Debug\netcoreapp2.0\SnakeGame.pdb

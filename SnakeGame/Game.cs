@@ -21,6 +21,8 @@
     {
         public static void Main()
         {
+            Console.CursorVisible = false;
+            
             byte right = 0;
             byte left = 1;
             byte down = 2;
